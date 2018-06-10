@@ -1,0 +1,17 @@
+Los 10 programas fueron agregados de esta manera: 
+
+Luisa Sicaja
+1. Pila dinamica
+2. Cola dinamica
+3. Lista doblemente enlazada
+4. Tabla Hash
+5. Arbol AVL
+
+Ivan Mogollon
+1. Algoritmo de Floyd
+2. Arbol ABB
+3. Recursividad
+4. Apuntadores
+5. SizeOf
+
+Adicional: Luisa realizo el menu principal del programa.
