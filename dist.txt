@@ -1,0 +1,25 @@
+-----------------------------
+ Iván Mogollón 0901-16-11239
+-----------------------------
+5 programas :
+
+1. abb
+2. sizeOf
+3. Apuntadores
+4. floyd
+5. recursividad
+
+-----------------------------
+ Luisa Sicajá 0901-16-16081
+-----------------------------
+5 programas :
+
+1. avl
+2. lista doble
+3. hash
+4. cola dinamica
+5. pila dinamica
+
+
+El cpp del programa finalizado esta en Programas agregados y
+se llama Union 8-6-18, r, subido por Iván Mogollón.
